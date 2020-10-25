@@ -1,0 +1,168 @@
+medicineID	patient_id	medicine	medicine1	medicine2	medicine3	medicine4	medicine5	medicine6	medicine7	medicine8	medicine9	medicine10	medicine11	medicine12	medicine12	medicine13	medicine14	medicine15	medicine16	medicine17	medicine18
+1	84768	LevonorgestrelEthinyloestradiol15030mcgnocte	Movicol2sachetsnocte	Multivitamin1nocte	Fludrocortisone0.2mgmaneforposturalBPdrop	AtroventsprayPRNforhypersalivation	Ferrousfumarate310mgfolicacid350ug	ParacetamolPRN													
+2	80632	MedroxyprogesteroneDepoProvera150mgmLInjection	ColoxylandSenna2tabletsnocte	MetforminXR2gnocte																	
+3	46602	Levothyroxine100microgmane	MetforminXR1gnocte	GliclazideMR60mgnocte																	
+4	50469	MovicolPRN	Metformin1gBD	Ipratropiumbromide0.03%nocte																	
+5	79529	MetforminXR2gnocte	Empagliflozin25mgmane	GliclazideMR120mgmane	Rosuvastatin40mgnocte	Carbimazole10mgmane	ColoxylandSenna2BD	Exenatide2mgweeklySCthroughGP	Fenofibrate145mgmane												
+6	93030	Diazepam5mgnoctePRNforsleep	Irbesartan300mgmane	Moxonidine–400micrognocte	Estelle–OCPx1tabmane	Ascorbicacidascorbicacid500mgoralchewabletablet:1tabmane	Cefalexin500mg	PO	TDSlongterm	skincondition	Cholecalciferol25microgmane	HairSkinandNailsSupplement:1tab	PO	daily							
+7	46870	atorvastatin40mg	mane.	docusatesenna2tabsBD	fenofibrate145mg	mane.	MetforminXR1gBD	pantoprazole40mg	mane	Movicol2sachetsBDPRN											
+8	296	Atenolol25mgmane	Coloxyl+Senna–1mane+2nocte	Multivitamin1daily	Symbicort20062puffsBD																
+9	82550	FluticasoneSalmeterol25050iipuffsbid	Ventolin100mcgiipuffsq4hr	Nexium40mgponocte	Paracetamolprn	Nicorettepatches	MetforminXR1000mgbid	Movicolisachetsevery12days													
+10	18874	Metformin2gnocte	Benefibre2tspmane	ColoxylSenna1tabletsnocte+PRN	Atroventnasalforte–2puffsnocteyettocommence																
+11	45941	ColoxylandSenna2tabspoBDsporadiccompliance	Erythromycin400mgipomane	IpratropiumAtroventnasalforte1spraysublingualforhypersalivation	Isotretinoin20mgpomane	Levonorgestrel–5yearly2017	Metformin500mgponocte	Movicol1sachetmanesporadiccompliance	Benztropineuncleardoseorfrequencyprescribedbyprivatepsychiatrist												
+12	1131	Rabeprazole20mgnocte	MetforminXR1gBD	Cholecalciferol50mgnocte	Atorvastatin40mgnocte	Telmisartinamlodipine40mg5mgnocte	Coloxyl+Senna2tabsnocte	Ironsupplement													
+13	25519	Pantoprazole40mgmane	Minocyclin50mgmaneforskin	MetforminXR1gnoctewasBD–checkwithpharmacist	Probiotic																
+14	1188	MetforminXR1gnocte	Pantoprazole40mgPOBD	Movicol12daily	Benztropine2mgBD	Thiamine100mgPOmane	Atorvastatin40mgnocte	Metoprolol25mgmane													
+15	76421	SennaPRN																			
+16	53501	Melatonin2mgnocte	NovoMix3046umane50unocte	FerrogradC325mg500mgMODIFIEDrelease:1tabs	Tablet	Oral	morning	Byetta10mcgBD	Metformin1gBD	Perindopril2.5mgmane	Ranitidine150mgBD	Simvastatin10mgnocte	DepoRalovera150mg3monthly	Ventolin100mcgPRN	VitaminD31000IUmane						
+17	21250	MetforminXR1gBD	ColoxylandSennaiiBD	MovicolPRN																	
+18	72451	MovicoltwosachetspoBD	Pantoprazole40mgpomane	Rosuvastatin10mgponocte	ColoxylSenna1tabpoPRN																
+19	9060	MetforminXR1gnocte	Thiamine100mgBD	MovicolPRN																	
+20	80554	Atropinedrops12dropsmane	Esomeprazole40mgnocte	DulcolaxBisacodyliinocteselfcommenced																	
+21	39943	Lansoprazole30mgnocte	Atorvastatin20mgmane	Coloxyl+Senna2nocte	VitD3000iumane																
+22	9539	MetforminXR1gBD	ColoxylandSennaPRNminimalrequirement	Oxybutynin5mgBD																	
+23	87312	Pantoprazole40mgmane	Metformin1gPOBD																		
+24	68958	Acamprosate–2tabsTDS	MetforminXR2gnocte	Atrovent2puffsnocte	Lamotrogine100mgbd	MovicolPRN	NAC1gbd	Naltrexone50mgevening	Pantoprazole40mgmane												
+25	66501	ColoxylSenna1tabletsnocte	Lipitor20mgmane	Naltrexone50mgmane	Thiamine100mgmane																
+26	56365	VitD1000IU1tabmane	Ferrogradumet1tabmane	Fenofibrate145mgnocte	Bisacodyl5mgnocte	MetforminXR1gnocte	?NACtrial	Ezetimibe10mgdaily	Thyroxine125mcgmorning	Movicol1satchetPRNprescribed											
+27	79858	Coloxylandsenna2tabsbd	Movicol2sachetmane	Cholecalciferol25microgmane	Atropineeyedrop1%1dropSLnoctenotyetcollectedfrompharmacy	Salbutamolprn															
+28	85070	Atorvastatin10mgnocte	Perindopril2.5mgpomane	Metformin2gnocte	Benztropine1mgpomane	Coloxylandsennaiiponocte	NAC	FishOil	Magnesium	AshwagAndha											
+29	60389	MetforminXR2gnocte																			
+30	71602	MetforminXR2gnocte	Esomeprazole20mgmane	FerroTabSupplement1x200mgtabBD	Ramipril1.25mgnocteformicroalbuminuria	FemmeTabED201001tabPOmane															
+31	16724	Pantoprazole20mgPOnocte	ColoxylandSenna2tabsPOnocte–sporadiccompliance																		
+32	9123	Coloxyl1tabBD	Pantoprazole40mgnocte																		
+33	33138	MetforminXR1gnocte	Movicol1sachetPRN																		
+34	14586	Budesonideinhaler	Pantoprazole40mgmane	MetforminXR1000mgbid	AtroventForteNasalspray–notusingit	Coloxylandsenna12noctePRN	Movicol1sachetdayPRN														
+35	4081	Metformin500mgmane1000mgnocte	VitaminD																		
+36	45836	AtroventNasalspray22mcg2spraysnocte	ColoxylandSenna2tabsbd	Caltrate600mgmane	Metamucil1scoopmane	PanadolOsteo2tabbd+2tabmidiPRN	Pantoprazole40mgmane	Thiamine100mgmane	VitaminD25microgmane	Movicol1sachetBDPRN	Salbutamol100microg1puffQIDPRN										
+37	53485	ColoxylSenna2tabletsnocte	Desmopressin10mcgintranasalnocte	MetforminXR1gBD	Omeprazole20mgmane	Diazepam5mg12tabsPRN	Senna1tabsPRN	Sildenafil100mgPRN													
+38	72714	Esomeprazole20mgnocte	Levetiracetam500mgBDformyoclonicseizures	Multivitamin1tabnocte	MetforminXR2gnocte	NAC2tabsBD	Rosuvastatin10mgnocte														
+39	62651	Bisoprolol7.5mgmane	Metformin1gnocte	Ramipril7.5mgmane																	
+40	71075	Olanzapine5mgPRN12tabsperday	Coloxylandsenna1tabnocte	MetforminXR2gponocte	Pantoprazole20mgmane																
+45	70233	Azathioprine100mgmane	VitaminE1000IUmane	Symbicort200mcg6mcg2puffsmane	CentrumAdvanceVitamin1tabletmane	Cholecalciferol2000Umane	ColoxylSenna2tabsBD	GliclazideSR180mgmane	Jardianceempagliflozin25mgmane	Melatonin2mgponocte	MetforminIR1gBD	Nicotinespray	Perindoprilarginine4mgmane	Rosuvastatin20mgmane	Salbutamol100mcg1puffsPRNQID	Triamcinolone0.02%creamBDPRN					
+46	72520	GingkoBiloba6mgmane																			
+56	69394	Valproate500mgnocte	Sertraline100mgmane	Aripiprazole20mgmane	Benztropine2mgnocte	Valium5mgPRNusu.1wkonlyifneeded	Atenolol50mgmane	Atorvastatin40mgnocte	Esomeprazole20mgmane	MacrogolPRN	SteroidcreamPRN	Atropinedrops12sublingBDPRNNEW									
+57	15974	Paliperidone	Trinza350mgIMIQ12wk	Valproate1gmmane1.5gmnocte.	Levetiracetam500mgBD	DesvenlafaxineMR200mgmane	Desmopressinnasalspray10mcgnocte	FluticasoneSalmeterol250mcg25mcg12puffstwiceaday	Salbutamol100mcginh2puffsQ4HPRN	Atroventinhaler22mcg	ColoxylSenna–threetabsbd	Multivitamin	Diazepam5mgprn.								
+58	61820	MetforminXR1500mgnocte																			
+59	25558	Fluvoxamine25mgnocteInotethatthisisforpurposeofincreasingclozapinelevel	SodiumValproate1400mgBD	PaliperidoneTrinza525mgq12weeks																	
+60	4486	Paliperidone175mgIMIq12weeks																			
+61	4833	FenofibrateFluctuatingcompliance																			
+62	9642	Olanzapine20mgnocte	Escitalopram10mgmane	Olanzapine5mgdailyPRN	Bisoprolol2.5mgdaily	Rabeprazole20mgmane	ColoxylwithSenna	2tabsmane	Macrogol1sachetPRN												
+63	80788	Aripiprazole2.5mghighprolactinnottaking.	Metformin1gnocte	OCPBrenda	Atroventnocteprnhypersalivationdoesn’tuseit.	Macrogolprn															
+64	14353	Paliperidone100mgimi452	Diazepam5mgprnnocteAbout2week	ifClozapinedosetimingislatetomanagelegcrampswhensupinewithin2hrsofretiring	Metformin1000mgnocte	StatineverynightcommencedbyGP612agosayslipidlevelreduced	VitDcapsules	Movicoleverysecondday	Fishoilcapsulesdaily.												
+66	97561	FemmeEDtab15030mcgmanePO	Movicol1sachetdaily	Sertraline50mgmanePO	Atropinesulfate1%SLnocte12drops	Metformin1gBD–increased0205															
+72	11314	Aripiprazole400mgIMfourweekly	Sodiumvalproate500mgmane700mgnocte	Venlafaxine375mgman	Propranolol10mgBD	Lamotrigine175mgBD	VitaminD2000IUmane	Metformin500mgnocte	Fenofibrate145mgOD	FluticasonevilanterolBreoElliptainhaler	SalbutamolinhalerPRN	GavisconPRN	Lithium250mgnocte								
+74	84326	Diazepam5mgnocteandPRNasprescribedbyGP	NacetylcysteinetherapywDrGaryDeedHealthWellnessSpecialist																		
+75	78256	Aripiprazole40mgdaily	Venlafaxine300mgdaily																		
+79	6764	Aripiprazole450mgnocte	VenlafaxineXR300mgselfincreasedto300mg	Diazepam5mgoccasionallywhensocialises	Metformin1gmnocte																
+80	17976	Metformin500mgXRnocte	Esomeprazole20mgmane	Fluoxetine40mgmane	DiazepamPRNcoupleoftimesperweek																
+82	53116	Aripiprazole10mgmane																			
+86	36934	escitalopram10mg																			
+87	78712	Lurasidone40mgponoctealthoughtceasedinmarch2020	stillbeingpackedinWebsterPak	Benzatropine2mgpomane	Rosuvastatin10mgpomane	SennaandColoxyl2tabletsponocte	Rabeprazole10mgpomane														
+88	40829	Aripiprazole10mgPOmane	Citalopram20mgPOmane.	Atorvastatin.																	
+90	51082	Ezetimibe10mgponocte	EmpagliflozinJardiance25mgpodaily	Pantoprazole40mgdaily	MatforminIR1000mgpomane	VitaminD25mcgpodaily	Movicolprn	Salbutamolinhalerprn													
+91	64626	Flupenthixol100mgIMq252	Nexium																		
+92	4248	Amisulpride200mgmaneand600mgnocte	Diazepam10mgnocte	OmegaFishOil1gmaneand2gnocte																	
+93	84251	Cholecalciferol25mcg1000iu1tabmane	Aripiprazole15mgmane																		
+94	106029	Valproate1gnocte	Diazepam5mg	Atorvastatin20mgmane	Movical1sachedbd.	Magnesium100mgbd	Bisoprolol2.5mgmaneand5mgmane	DuroK600mgmane	Frusemide20mgmane	Lisinopril10mgmane	Warfarin3.5mg	Fenofibrate145mgnocte.	Metformin500mgnocte.								
+95	2523	Paliperidone150mgIMIevery4weeks	Quetiapine100mg200mgPRNNoctemax.	of400mgperday	Atropinedrops2dropsatnight.	Metformin1000mgnocte	Pantoprazole40mgnocte	Salbutamol100mcginhaler	BudesonideEformoterolSymbicort120doses200mcg6mcg												
+96	6349	Zuclopenthixoldecanoate300mgIMIQ14day	Pregabalin75mgnocte	IpratropiumnasalsprayTDSnonadherent																	
+97	54344	Amisulpride100mgBD	Fluvoxamine25mgmane	Perindopril2mgmane	Desmopressin120mcgnocte	Movicol1sachet.															
+98	86142	Paliperidone150mgevery4weeks	Fluoxetine20mgmane	Valproate700mgmane1gmnocte	Lamotrigine100mgbdand25mgnocte	Metformin1gmmane	Thyroxine50mcgmane	Pantoprazole20mgmane	Thiamine100mgmane	Cholecalciferol25mcgmane	Hydroxocobalminevery4months	Centrumadvance1tabmane	Macrogolsachetprn								
+99	1262	Mometasonecreamapplyod.	Salbutamolinhalerprn	Macrogolprn.																	
+100	2511	Desmopressin200mcgnocte																			
+101	75171	20mgaripiprazolemane																			
+102	82334	Aripiprazole45mgmane																			
+103	25860	Aripiprazole45mgnocte																			
+104	9613	Citalopram45mgdaily	Temazepam	Metformin																	
+109	55282	MetforminXR1gBD	Atenolol25mgmane	Atorvastatin20mgnocte	OCPBrenda	Coloxylwithsenna2tabsnocte	Ferrogradument1mane														
+110	72057	Abilifydepot400mgMonthlyIMI.	Omeprazole20mgmane	VitaminD25mcgOD																	
+111	24017	QuetiapineIR100mgprn	Rarediazepam5mgprn																		
+112	98721	Astovastatin	40mgnight	Docusatesenna	Lithium750mgnight	PRNMacrogol3350	1sachet	PRNparacetamol	1000mg	4timesaday	PRNSalbutamol100mcg	2puffs4timesaday									
+117	41382	Depotaripiprazole200mgq452	valproate500mgnocte	acamprosate666mgtid	fenofibrate	thiamine	metformin	diazepamprn													
+118	4149	Paliperidone100mgmonthly																			
+119	4216	Diazepam5mgprn																			
+122	8878	MetforminXR500mgponocte	Symbicort2996mcg2puffsBD	Micronelle30EDOD	Atropineeyedrops2dropssublinguallyprn	ParacetamolPRN	SalbutamolPRN														
+124	4646	MetforminXR500mgBD	Movicol1sachetprn.	QuetiapineIR25mgprnupto100mgper24hrs																	
+129	33816	RisperidoneConstaLAI75mgIM252																			
+133	11369	Olanzapine15mgponocte	NaValproate1000mgmane1500mgnocte	LithiumSR450mgponocte	Propranolol10mgpobd																
+135	86144	Sodiumvalproate500mgBD	Atorvastatin20mgnocte	Metamucil	Movicol1sachettwiceaday	SennaandColoxyltwotabletsnocte	Atropinedrops12dropssublinguallyprn														
+142	104489	Lithium750mgBD																			
+170	40696	Fenofibrate145mgmane	Atropine1%drops2dropsatnight.	Coloxylandsenna4tabnocte.																	
+187	104431	Sennaanddocusate1tablettwiceaday	Macrogolsachethalftwiceaday	Benefibrepowder1teaspoontwiceaday	Pantoprazole40mgOD																
+196	6356	Coloxyl&Senna2tabletspobd																			
+200	81441	Ramipril2.5mgpodaily	Bisoprolol5mgpodaily	MetforminXR1gponocte	Gliclazide60mgpomane	Pravastatin10mgponocte	Cholecalciferol25mcgpod														
+205	5407	Desmopressininhalernoctenocturalenuresis	Atroventnasalforteslnoctebleedingnose	Coloxylandsenna2tablsnocte	Pantroprazole40mgBD	"VentoinandSeretide""120""withspacerBD"	ContraceptionMirena														
+220	56543	Metformin500mgBD																			
+226	52517	Rabeprazole20mgmane	Thiamine200mgmane	SennaandColoxyl2tabletBD																	
+240	5420	Simbastatin10mgponocte	Metamucil3tspnocte	Coloxyl&Senna2tabletsponocte																	
+246	53066	Lumigan1dropinbotheyes.	Salbutamolinhalerprn	Telmisartan40mgmane	Ivabradine2.5mgmaneand5mgnocte	MetforminXR2000mgmane	Rosuvastatin5mgnocte	Cholecalciferol50mcgmane	Macrogolprn												
+248	105700	Diazepam510mgprnSeldomutilised	MetforminXR1gmponocte	Symbicort2006inhaler2puffsbd	Colecalciferol50mcgpod																
+249	29612	Diazepam5mgprn																			
+250	21089	Clozis50mgprn56^*25mg	300noctewitharipiprazole20mgmane	paroxetine20mgnocte	lamotrigine.																
+251	18202	Coloxylandsenna2tabBD	Valproate1000mgBD	Clonazepam?dose	Metformin500mgBD	Fishoil5mgnocte	PRNOlanzapine10mgnocte														
+252	75263	aripiprazole10mgmaneanddiazepamprn																			
+255	53359	CPZisat100mgmane200mgmidday100mgnocte	valpro1500mgmane1200mgnocte	clonazepam2mgdaily.																	
+256	32751	ColoxylwithSenna1tabBD	Movicol12sachetsmane	Perindopril4mgmane																	
+257	3926	nicotinepatch14mg	amlodipine5mgnocte	thiamine	valproate500mgmane	1500mgnocte	panadol1gTDS	diazepam	oxazepamPRN	fishoil											
+258	17154	PaliperidoneLAI100mgq452	Aspirin100mgmane	Clopidogrel75mgmane	EmpagliflozinMetformin51000mg1BD	Atorvastatin80mgnocte	Sitagliptin100mgmane	Perindopril2mgmane	SennosideB2BD	FerroGrad1mane	NicotinereplacementtherapyPatch14mgday	NEWSTARTEDTODAYNicotineGum2mgPRNQID									
+259	106193	OXazepamAlepam15mgoraltablet:0.5tabs=7.5mgnocte	Allopurinal100mgmane	amLODIPinenorVASC5mgoraltablet:0.5tabs=2.5mgnocte	aspirinAstrix100mgoraltablet:100mgmane	cholecalciferolOsteVitD25mcgoraltablet:1tabs=25mcg	mane	colchicineLengout0.5mgoraltablet:0.5tabs=0.25mgmane	docusatesennaColoxylwithSenna50mg8mgoraltablet:1tabbd	Sorbolene1applicationbd	paracetamol500mg:2tabs=2000mgqid	thyroxinesodium150mcgmane									
+261	88	Coloxylandsennatwotabletstwiceaday	Benzatropine2mgPRNOD	Rabeprazole20mgnocte	Loperamide2mg8hourlyPRN	Metoclopramide1tabletTDSPRN	SalbutamolinhalerPRN	DepotProvera													
+262	28952	Lithium500mgbd	VenlafaxineXR150mgmane	DocusateSennanocteprn	Macrogol1sachetbdprn	Paracetamol500mgqidprn	Frusemide20mgmane	Pantoprazole20mgmane													
+263	4184	Nitrofurantoin50mgorallybd	Brenda35EDOCP																		
+264	2245	Rabeprazole20mgmane	Macrogol1sachetmane	Doxycycline50mgmane	Loperamideprn	Ondansetronprn	Electrolytereplacementprn.	Paracetamolprn	Salbutamolprn	Macrogolprn.											
+265	5489	Aripriprazole20mgmane	Atorvostatin40mgOD	Fludrocortisone150microgramsOD	Folicacid0.5mgOD	Metformin500mgnocte	Pantoprazole40mgOD	SennaandColoxyl2tabletsnight	Aspirin100mgOD	B12	Exenatide10mcgOD	Seratideinhaler50050onepuffBD	PRN:Paracetamol	salbutamol	loperamide	ondansetron					
+266	7438	Movicol1sachetmane	SalbutamolPRN	LopramidePRN	OndansetronPRN	ElectrolytereplacementPRN	ParacetamolPRN	DocusatePRN	TemazepamPRN												
+267	76370	Ferrousfumaratefolicacid100mg350mcg1tabmane	Benztropine2mgod	Docusateandsenna50mg8mg1tabletnocte	Hydrocortisoneprn	Loperamideprn	Metoclopromideprn	Paracetamolprn	Salbutamolprn	Electrolytereplacementprn											
+268	43499	Propantheline	Ramipril	Bisoprolol																	
+269	50162	Coloxylandsenna2tabbd	Movicol2sachetbd	Metformin500mgbd																	
+316	11647	benztropine1mgmaneand2mgnocte																			
+317	70757	olanzapine5mgceasedtoday	Dulcolax:2tabs	metoprolol:100mg	metoprolol:50mg	Diazepam5mgponocteprnalmostdaily	Venlafaxine75mgpomaneaddedtoday	Risperidone1mgponocteaddedtoday													
+319	71510	Paroxetine40mg	MetforminXR	now1000mgnight	Atorvastatin	20mg															
+320	54062	Minimaldiazepam	ColoxySennaiiatnightfrom300620																		
+321	53388	prndiazepam																			
+323	4898	20mgaripiprazolemane																			
+324	4056	Thiamine	Sennaanddocusatetwotabletsatnightintermittentadherence	Diazepam5mgpoprn																	
+325	66344	MetforminXR500mgnocte																			
+328	12219	Amlopdipine10mgpomane	Perindoprilindapamide51.251tabpomane	Gemfibrozil600mgpoBD	MetforminXR1500mgponocte	MovicolPRN	Macrogol1sachetmorningmane	Coloxylandsenna2tabsponocte	Pantoprazole80mgpomane	VentolinandSeretide“120”withspacerinhbp	Medroxyprogesteronedepoprovera	Websterpack									
+356	70391	MetforminXR500mgnocte	DepoProveracontraceptiveinjectionevery312																		
+453	105951	Aripiprazole30mgmane	Diazepam10mgdaily–musclerelaxantforscoliosis	LinagliptinMetformin2.5mg1000mg1tabbd	Atorvastatin80mgmane	Macrogol1sachetnocte	ADR–pineappleanaphylaxis	Risperidoneweightgain													
+454	23483	Pantoprozole40mgpodaily	MetforminXR2000mgponocte	Amlodipine2.5mgdaily	Ramipril2.5mgpodaily	Multivitamins1tabpomane	omega3fattyacids2000mgpomane														
+455	1424	Metformin1gBD	Rosuvastatin10mg	Lercanidipine	Esomeprazole20mg	Senna15mgnocte															
+457	21672	15mgaripiprazoledaily																			
+461	33648	aspirin100mgmane	atorvastatin20mgnocte	cholecalciferol1mane	ccosenna2tabsBD	Mg500mgmane	metforin500mgmane	metoprolol12.5mgmane	psylliumscoopmane	multivitmane	enemaPRN	oralubeTDSPRN	oxazepam7.5mgTDSPRN	Panadol1gQIDPRN	movicol2BDPRN	gaviscon20mlsTDSPRN					
+462	57782	docusatesennaColoxylwithSenna50mg8mgoraltablet:3tabs	Tablet	Oral	morning	simvastatinsimvastatin20mgoraltablet:1tabs=20mg	Tablet	Oral	night	Tandospirone:10mg											
+479	51623	VitaminDsupplement																			
+480	90161	Metformin2gPOnocte																			
+481	24391	VitaminD1000IUdaily																			
+482	31636	Olanzapine15mgPOnoctenotadherent–usesitprn	Multivitamin–notadherent	Thiamine–notadherent	B12supplement–notadherent																
+483	11263	Carbamazepine200mgBD	Olanzapine10mgdaily	LithiumQuilonumSR1350mgnocte																	
+484	65995	Atorvastatin20mgnocte	Metoprolol25mgBD	MetforminXR1gPOnocte	Dulaglutide1.5mgweeklyinj	VitaminD2000unitspomane		PRN:movicol12sachetsdaily;Paracetamol													
+486	75425	MirenaIUD	Valacyclovir500mgdailyfromGPforgenitalherpes	Doxycycline50mgdailyfromGPforacne																	
+487	8090	Lithium500mgnocte	Omeprazole20mgmane	Perindopril5mgdailyforhypertension																	
+488	4863	Aspirin100mgmane	Atorvastating40mgnocte	MetforminSR2gnocte	Thyroxine50microgdaily	Florinef100microgdaily	Ostelin1tabdaily	Fenofibrate													
+490	10632	Atropinedropsundertongueforhypersalivation	Dulcolaxforconstipationtakesone	threetimesperweekforconstipation																	
+494	80297	Insulin–Novorapid;Levemir.Variesitdependingonhissugarreadings																			
+497	33962	Metforminadjunctively	NB:HasdeclinedretrialofAripiprazoleandLurasidone.																		
+498	74994	docusatesennaColoxylwithSenna50mg8mgoraltablet:2tabs	metforminmetformin1	000mgoralMODIFIEDreleasetablet:2tabs	vareniclineChampixCombinationPack0.5mg+1mgoraltabletpack:1tabs																
+499	57377	metforminmetformin1	000mgoralMODIFIEDreleasetablet:2tabs	Tablet	modifiedrelease	Oral	evening														
+502	14634	Rosuvastatin1tab	5mg	nocte	PanadolOsteo	665mgtds	Eutroxsig150mcg	monfri	Metformin1tab	1000mgBD	BydureonInj2mg	subcut	EveryweekonFri	VitaminB12IMIinjq312	SpirivaINHCAP18mcg	inh	mane	Seretide50mcg500mcg	TarginCRTAB10mg5mg		
+503	358	Atrovastatin40mg	nocte	Magmin1500mgTDS	Lantus40units	subcut	nocte	Novorapid8units	subcut	TDS	Coloxyl7SennaBD	Nexium40mg	Cranberry	Spiriva	inh	1nocte	Paracetemol1000mg	QID	Perindopril8mg	mane	
+505	4169	Atorvastatin10mgnocte																			
+506	7047	Lurasidone40mgnocteaftereveningmeal																			
+508	10083	PanadeineForte500mg;30mgTablet	12tabPOq6hfortoothpain																		
+512	8299	Pantoprazole40mgtablet1tabletdaily	Proctosedyl0.5%;0.5%suppositoriesinsert1suppositoryintoanus3timesdailyasneedforpainoritch	SymbicortRapihaler1003100mcg;3mcg2puffstwiceaday																	
+514	8862	DoxycyclineasHydrochlorideTabletDoxycyclineashydrochloride5mg1dailyc.c.	FinasterideTabletFinasteride5mg1daily																		
+516	1624	metoprololmetoprolol50mgoralIMMEDIATEreleasetablet:SeeInstructions	Take1.5tablets75mginthemorningand1tablet50mgatnight	ascorbicacidascorbicacid500mgoralchewabletablet:1tabs	Tablet	Oral	morning	magnesiumaspartatemagnesiumaspartate500mgoraltablet:1tabs=500mg	Tablet	Oral	morning	MSMPowderorganicsulphur:1teaspoon	Oral	morning	**Dissolvedinaglassofwater**						
+517	66608	gliCLAZideDiamicronMR60mgoralMODIFIEDreleasetablet:2tabs	Tablet	Oral	TWICEaday	linagliptinmetforminTrajentamet2.5mg1000mgoraltablet:1tabs	Tablet	Oral	TWICEaday	rosuvastatinrosuvastatin20mgoraltablet:1tabs=20mg	Tablet	Oral	night								
+518	86018	MetforminXR500mgmane	Furosemide20mgmane	Sennaandcoloxyl	Paracetamol	Movicol	Medroxyprogesterone150mgIMeverythreemonths	Salbutamolinhaler	Ascorbicacid500mg	Multivitamin	Calciumcarbonate										
+519	8874	psylliumhuskpsylliumhusk535mggoralpowderforreconstitution:23teaspoons	Powderforreconstitution	Oral	alternatedays	*Dissolvedintopearprunejuice**															
+526	63003	PiroxicamAPOPiroxicam10mgCapsules1capsuleonceeachdaywhenrequired	EsomeprazoleNexium20mgdailywhenrequiredwhiletakingpiroxicam	RosuvastatinCrestor20mgmane																	
+533	77392	perindopril4mgdaily	movicolisachetPRN																		
+544	80350	Metformin																			
+547	25812	SeeCIMHAformoremedications																			
+549	3650	Aspirin100mgmane	Atrovastatin40mgnocte	Atenolol25mgnocte	Coloxylandsenna	2Tabsnocte	Metformin1000mgmane	500mgnocte	Empagliflozin10mgmane	Ferrograd	GTNpatch1patchnocte	Januvia50mgmane	Lantusnovorapidinsulin	Omeprazole20mgBD	Paracetamol665mgBD	VitaminD25mcgdaily	VitB12injection312ly				
+553	8171	VentalinPRN																			
+572	5661	Atorvastatin10mgnocte	Aspirin100mgmane	Candesartanhydrochlorothiazide16mg12.5mgmane	Coloxylandsenna2tabsBD	Frusemide40mgmane	Hairandnailstab	Metformin2gnocte	Panadol1gQID	Ranitidine150mgBDprobablynolonger?	VitaminD25microgmane		Betamethasonecreamtoface	SorbitolPRN	Polytears	MylantaPRN	OxycodoneIR2.5mgPRN				
+587	75539	Metformin500mg–selfceased	Risperidone2mgponocte–selfceased	Ironsupplement	Subdermalbirthcontrol29052019																
+615	115759	Amlodipine2.5mgmane	Aspirin100mgmane	Atenolol50mgBD	ColoxylwithSenna1tabnocte	VitaminB3500mgmane	Temazepam10mgnocte?PRN														
