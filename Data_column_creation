@@ -1,0 +1,127 @@
+#set for the folder
+setwd("~/Bioinformatics Work/Random Psych/Clozapine_metabolic_v1");
+# Load the packages
+library(flashClust)
+library(plyr)
+library(dplyr)
+library(tidyr)
+library(tidyverse)
+library(gmodels) #crosstab
+library(ggplot2)
+library(reshape2)
+library(RColorBrewer)
+
+
+
+#### read in the running patient file
+
+df <- read.table("Patient_running.txt", sep = "\t", header = TRUE)
+
+### what we need to add to this:
+# Age +/- age breaks
+# Antipsychotic polypharmacy counts
+# Mood stabiliser factor column
+# Metabolic syndrome factor column
+# Collection factor column
+# Count collected column
+# Medications for management column
+
+########################################     AGE      ##########################################
+
+## change the DOB to a date format that R recognises
+## in quotes tells the program what the date currently looks like
+## lower case y = two digit year
+# cuts off <65 to 21st century, need to load chron
+library(chron)
+options(chron.year.expand = 
+          function (y, cut.off = 12, century = c(1900, 2000), ...) {
+            chron:::year.expand(y, cut.off = cut.off, century = century, ...)
+          }
+)
+
+df$dob <- as.Date(chron(format(as.Date(df$dob, "%d/%m/%y"), "%m/%d/%y")))
+
+
+## calculate age and add as new columns
+## make it age as at Sep 1?
+df$Age <- (as.numeric(difftime(df$dob, as.Date("2020-09-01"), units = "weeks"))/52.25)
+df$Age <- -round(df$Age, digits = 2)
+summary(df$Age)
+
+## what about bins for ages
+
+#Create age breaks
+agebreaks <- c(0,19,29,39,49,59,500)
+agelabels <- c("0-19","20-29","30-39","40-49","50-59","60+")
+
+df <- setDT(df)[ , Agegroup := cut(Age, 
+                                     breaks = agebreaks, 
+                                     right = FALSE, 
+                                     labels = agelabels)]
+
+plot(df$Agegroup)
+################################################################  Antipsychotic polypharmacy ##################
+
+## Count the number of antipychotic medications patient is on
+df$APP <- rowSums(select(df, 'Amisulpride':'Ziprasidone') > 0)
+
+###########################################  Mood stabiliser factor  #################################
+
+## Mood stabiliser?
+df$Mood_stabiliser <- ifelse(df[,"Sodium.valproate"] > 0 | df[,"Lamotrigine"] > 0 | df[,"Lithium.Salts"] > 0  , "Yes", "No")
+
+#####################################  Metabolic factor ###################################
+
+## don't forget to load the functions first!!!
+
+df <- meta_fun(df)
+
+
+#####################################  Collection factor ###################################
+
+df <- collect_fun(df)
+
+
+###########################################  Other medications??  ################################
+## load in the medication info file
+med <- read.table("Med_factor.txt", sep ="\t", header = TRUE)
+## merge this into the patient data file
+df <- merge(df, med, by = "patient_id", all.x = TRUE, all.y = FALSE)
+
+### let's write that baby out so we don't gotta do this a million times
+write.table(df, "testing_output.txt", sep = "\t")
+
+
+
+####################################################################################
+## some of the columns should be factors, whereas others are numeric
+
+
+class(df$sex)
+class(df$patient_id)
+
+#################
+## need to coerce these
+# print the col names so you can copy them etc
+colnames(df)
+
+## then pick the ones which should be factors
+cols <- c("sex", 
+          "primary_diagnosis",
+          "indigenous_status", 
+          "ethnicgrp_desc", 
+          "Agegroup",
+          "APP" , 
+          "Mood_stabiliser",
+          "Metabolic",
+          "Collected",
+          "Metformin",
+          "Antilipid",    
+          "Anti_Hypertensive",
+          "GLP1"  )
+df[cols] <- lapply(df[cols], factor)
+
+
+### pr you can just re-introduced the saved file with "strings as factors" hahah
+df <- read.table("Patient_final.txt", sep = "\t", header = TRUE, stringsAsFactors = T)
+class(df$sex)
